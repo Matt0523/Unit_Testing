@@ -5,5 +5,21 @@
   "devDependencies": {
     "@babel/preset-env": "^7.15.0",
     "jest": "^27.1.0"
-  }
+  },
+  "name": "Unit_Testing",
+  "description": "Test using jest",
+  "version": "1.0.0",
+  "main": "UnitTestingActivity.test.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt0523/Unit_Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt0523/Unit_Testing/issues"
+  },
+  "homepage": "https://github.com/Matt0523/Unit_Testing#readme"
 }
